@@ -42,11 +42,15 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
-### Looker Studio
-- **Project Name**: [Project Title](link-to-project)
+### Looker Studio 1
+- **Project Name**: [Project Title](https://lookerstudio.google.com/reporting/a80a8ac6-461b-44e8-be66-d64580a1b373)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and tables used in the project.
 
+### Looker Studio 2
+- **Project Name**: [Project Title](https://lookerstudio.google.com/reporting/fa3fd8f8-8f5d-4926-a813-a1bb5c36d41a/page/O7a0D)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the features and tables used in the project.
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
