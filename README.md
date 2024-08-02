@@ -15,11 +15,11 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
 * 🤝  I'm open to collaborating on Survey Design and Analysis projects
 * 🤝  I'm open to collaborating on Survey Design and Analysis projects
 *    I hold a postgraduate degree in Statistics and in Computing & Information Systems
-*    I am a Microsoft Certified System Administrator and a Certified CompTIA A+ 
+*    I am a Microsoft Certified System Administrator and a Certified CompTIA A+ Professional
 
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
-🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
-🌐 Curious about web scraping and API integration. 
+* 📊 Proficient in SQL, Python, R, Excel and data visualization tools (Power BI, Tableau and Looker Studio)
+* 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical analysis
+* 🌐 Curious about Azure Data Analytics 
 
 ## Projects
 
@@ -35,7 +35,7 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
+- **Visualisation using Power BI**: [Sales Report](https://app.powerbi.com/groups/me/reports/aa60a458-61db-47ad-a25a-02272e937307/3355ce717c475273b09d?experience=power-bi)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
@@ -44,7 +44,7 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
-### Access
+### Looker Studio
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and tables used in the project.
