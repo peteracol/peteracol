@@ -9,8 +9,8 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
 
 ## About Me 🎓 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [email address](peter_acol@yahoo.com)
-* 🧠  I'm learning R and Python
+* ✉️  You can contact me at [email address](mailto:peter_acol@yahoo.com)
+* 🧠  I'm learning R, Python and Azure Data Analytics
 * 🤝  I'm open to collaborating on Survey Design and Analysis projects
 *    I hold a postgraduate degree in Statistics and in Computing & Information Systems
 *    I am a Microsoft Certified System Administrator and a Certified CompTIA A+ Professional
@@ -38,7 +38,7 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Tableau
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title](https://public.tableau.com/app/profile/peter.acol/viz/Data_Visualization_Assignment1/DashboardWealthofNations?publish=yes)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
