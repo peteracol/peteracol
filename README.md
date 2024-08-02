@@ -10,15 +10,13 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
 ## About Me 🎓 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [email address](peter_acol@yahoo.com)
-* 🧠  I'm learning R, Python and Pandas
-* 🤝  I'm open to collaborating on Survey Design and Analysis projects
-* 🤝  I'm open to collaborating on Survey Design and Analysis projects
+* 🧠  I'm learning R and Python
 * 🤝  I'm open to collaborating on Survey Design and Analysis projects
 *    I hold a postgraduate degree in Statistics and in Computing & Information Systems
 *    I am a Microsoft Certified System Administrator and a Certified CompTIA A+ Professional
 
-* 📊 Proficient in SQL, Python, R, Excel and data visualization tools (Power BI, Tableau and Looker Studio)
-* 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical analysis
+* 📊 Proficient in SQL, Excel and data visualization tools (Power BI, Tableau and Looker Studio)
+* 🧩 Skilled in data cleaning, exploratory data analysis (EDA), survey design and analysis
 * 🌐 Curious about Azure Data Analytics 
 
 ## Projects
