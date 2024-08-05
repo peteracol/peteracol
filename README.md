@@ -10,12 +10,12 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
 ## About Me 🎓 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [email address](mailto:peter_acol@yahoo.com)
-* 🧠  I'm learning R, Python and Azure Data Analytics
+* 🧠  I'm a developing my skiIls in R, Python, Azure Data Analytics and PowerBI
 * 🤝  I'm open to collaborating on Survey Design and Analysis projects
 *    I hold a postgraduate degree in Statistics and in Computing & Information Systems
 *    I am a Microsoft Certified System Administrator and a Certified CompTIA A+ Professional
 
-* 📊 Proficient in SQL, Excel and data visualization tools (Power BI, Tableau and Looker Studio)
+* 📊 Proficient in SQL, Excel and data visualization tools such as Power BI, Tableau and Looker Studio
 * 🧩 Skilled in data cleaning, exploratory data analysis (EDA), survey design and analysis
 * 🌐 Curious about Azure Data Analytics 
 
@@ -51,6 +51,7 @@ Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
 - **Project Name**: [Project Title](https://lookerstudio.google.com/reporting/fa3fd8f8-8f5d-4926-a813-a1bb5c36d41a/page/O7a0D)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and tables used in the project.
+    
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
