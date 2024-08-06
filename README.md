@@ -59,7 +59,7 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
   - **Technologies Used**: Python and the following libraries/packages: pandas, jupyter, matplotlib, nbconvert,             colab.
 
 ### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title](https://github.com/peteracol/Excel)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: Excel.
 
