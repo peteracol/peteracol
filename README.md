@@ -52,10 +52,10 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
     
   - **Technologies Used**: MySQL Workbench 8.0 CE
 
-### Python and Pandas
+### Python
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+  - **Technologies Used**: Python and the following libraries/packages: pandas, jupyter, matplotlib, nbconvert, google colaboratory (colab).
 
 ### DP900
 - **Project Name**: [Project Title](link-to-project)
