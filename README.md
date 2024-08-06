@@ -5,18 +5,18 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
 -------------------------------------------------------------
 
 
-👋 Hi there! I’m Peter, an aspiring data analyst with a passion for data analysis and turning raw data into actionable insights. I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies which I have learnt and continue to develop further skills in. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hi there! I am Peter, an aspiring data analyst with a passion for data analysis and turning raw data into actionable insights. I am excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies which I have learnt and continue to learn. Please feel free to explore my projects and reach out if you have any questions or comments.
 
 ## About Me 🎓 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [email address](mailto:peter_acol@yahoo.com)
-* 🧠  I'm enhancing my skiIls in R, Python, Azure Data Analytics and PowerBI
-* 🤝  I'm open to collaborating on Survey Design and Analysis projects
+* 🌍  I am based in London
+* ✉️  I can be contacted at [email address](mailto:peter_acol@yahoo.com)
+* 🧠  Currently enhancing my skiIls in R, Python, Azure Data Analytics and PowerBI
+* 🤝  I am open to collaborating on Survey Design and Analysis projects
 *    I hold postgraduate degrees in Statistics and in Computing & Information Systems
 * I am a Microsoft Certified System Administrator and a Certified CompTIA A+ Professional
-* I have over 25 years' experience in IT, Censuses and Surveys, and Fundrasing data, in public and voluntary sectors
+* I have over 25 years' experience in IT, Censuses and Surveys, and Fundraising CRM systems, in Public and Voluntary (Third) Sectors
 * 📊 Proficient in SQL, Python, RStudio, Microsoft Excel and data visualization tools such as Power BI, Tableau and Looker Studio
-* 🧩 Skilled in data cleaning, exploratory data analysis (EDA), survey design and analysis
+* 🧩 Skilled in data cleaning, exploratory data analysis (EDA), survey design & analysis and fundraising data segmentation
 * 🌐 Curious about Azure Data Analytics 
 
 ## Projects
