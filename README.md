@@ -21,7 +21,7 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
 
 ## Projects
 
-### R
+### RStudio
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
