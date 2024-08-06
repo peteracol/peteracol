@@ -45,9 +45,9 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
   - **Technologies Used**: Excel, PowerPoint, Looker Studio.
     
 ### MySQL
-- **Project Name**: [Project Title](https://github.com/peteracol/SQL)
+- **Introduction to MySQL**: [Queries and data manipulation using MySQL](https://github.com/peteracol/SQL)
   - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
+  - **Technologies Used**: MySQL Workbench 8.0 CE
 
 ### Python and Pandas
 - **Project Name**: [Project Title](link-to-project)
