@@ -39,9 +39,10 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
   - **Technologies Used**: Excel, Tableau Public Desktop, Tableau Public Online.
 
 ### Looker Studio 
-- **Project Name**: [Project Title](https://lookerstudio.google.com/reporting/fa3fd8f8-8f5d-4926-a813-a1bb5c36d41a/page/O7a0D)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: Excel, Power Point, Looker Studio.
+- **Data analysis and visualization using Looker Studio**: [Product and Transactions](https://lookerstudio.google.com/reporting/fa3fd8f8-8f5d-4926-a813-a1bb5c36d41a/page/O7a0D)
+  - **Description**: This project is based on the Sales of various products in six (6) States in Australia from 2018 to 2020. The data was provided in Excel and the analysis and report was produced in Looker Studio. Summary of the findings are also avaialable in PowerPoint.
+        
+  - **Technologies Used**: Excel, PowerPoint, Looker Studio.
     
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
