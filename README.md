@@ -47,25 +47,21 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
   - **Technologies Used**: Excel, PowerPoint, Looker Studio.
     
 ### MySQL
-- **Introduction to MySQL**: [Queries and data manipulation using MySQL](https://github.com/peteracol/SQL)
-  - **Description**: This project is a brief introduction to MySQL and how the tool can be used to run queries and generate results used for data analysis. The project also includes some concept and key SQL statements which can assist during SQL interviews. The reports from the project was produced in Microsoft Word, accompanied by the relevant SQL scripts for ease of understaning the queries used.
+- **Introduction to MySQL**: [Queries and data manipulation using MySQL](https://github.com/peteracol/MySQL)
+  - **Description**: This project is a brief introduction to MySQL and how the tool can be used to run queries and         generate results used for data analysis. The project also includes some concept and key SQL statements which         can assist during SQL interviews. The reports from the project was produced in Microsoft Word, accompanied by         the relevant SQL scripts for ease of understaning the queries used.
     
   - **Technologies Used**: MySQL Workbench 8.0 CE
 
 ### Python
-- **Project Name**: [Project Title](https://github.com/peteracol/Python))
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: Python and the following libraries/packages: pandas, jupyter, matplotlib, nbconvert, google colaboratory (colab).
-
-### DP900
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the tools and concepts used in the project.
+- **Data Analysis using Pandas**: [Telecom_Users_Data_Analysis](https://github.com/peteracol/Python)
+  - **Description**: This analysis is based on subscription data from a telecommunication company. The data was           provided in excel format and then imported into Python (pandas) for further analysis. The dataset comprised         6,050 customer records and 23 fields. The data manipulation was done using pandas within Google                     Colaboratory environment (Colab), which is a hosted Jupyter Notebook service. The jupyter notebook was then         converted into html and the link is provided for ease of reference.
+    
+  - **Technologies Used**: Python and the following libraries/packages: pandas, jupyter, matplotlib, nbconvert,             colab.
 
 ### Excel Modelling
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+  - **Technologies Used**: Excel.
 
 
 
