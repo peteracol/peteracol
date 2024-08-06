@@ -22,9 +22,11 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
 ## Projects
 
 ### RStudio
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+- **R-Data Analysis**: [Business Analyst Careers](https://github.com/peteracol/RStudio)
+  - **Description**:
+    This project based on the Business Analyst Careers offered by different companies all over the world. The dataset used for this project consisted of 4,092             Business Analysts jobs offered by the different companies. It contained information such as salary estimates (based on Glassdoor), job description, job rating        and information about the companies advertising for the Job roles. The dataset was analysed using RStudio and the report attached in the link above was based on     the followings requirements: The top 20 Industries, Top 20 Sectors, Top 20 Headquarters, Top 15 Jobs based on Rating, Top 15 Jobs based on Rating under               “Consulting” industry, Bottom 15 Jobs based on Rating, Top 10 Companies with rating greater than 3 and under industry “Consulting”, Top 10 Companies with rating      greater than 3 and under industry “Energy”, Top 10 Companies with rating greater than 3 and under industry “Accounting”, 10 more Summaries, and Plots Useful         Insights or Conclusions based on the data.
+
+  - **Technologies Used**: RStudio.
 
 ### PowerBI
 - **Visualisation using Power BI**: [Sales Report](https://app.powerbi.com/groups/me/reports/aa60a458-61db-47ad-a25a-02272e937307/3355ce717c475273b09d?experience=power-bi)
