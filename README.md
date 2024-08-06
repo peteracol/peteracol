@@ -54,13 +54,14 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
 
 ### Python
 - **Data Analysis using Pandas**: [Telecom_Users_Data_Analysis](https://github.com/peteracol/Python)
-  - **Description**: This analysis is based on subscription data from a telecommunication company. The data was           provided in excel format and then imported into Python (pandas) for further analysis. The dataset comprised         6,050 customer records and 23 fields. The data manipulation was done using pandas within Google                     Colaboratory environment (Colab), which is a hosted Jupyter Notebook service. The jupyter notebook was then         converted into html and the link is provided for ease of reference.
+  - **Description**: This analysis is based on subscription data from a telecommunication company. The data was provided in excel format and then imported into            Python (pandas) for further analysis. The dataset comprised 6,050 customer records and 23 fields. The data manipulation was done using pandas within Google          Colaboratory environment (Colab), which is a hosted Jupyter Notebook service. The jupyter notebook was then converted into html and the link is provided for ease     of reference.
     
-  - **Technologies Used**: Python and the following libraries/packages: pandas, jupyter, matplotlib, nbconvert,             colab.
+  - **Technologies Used**: Python and the following libraries/packages: pandas, jupyter, matplotlib, nbconvert, colab.
 
 ### Excel Modelling
-- **Project Name**: [Project Title](https://github.com/peteracol/Excel)
-  - **Description**: Brief description of what the project does and its key features.
+- **Using Excel tools for data analysis and visualization**: [Excel Tools and Dashboard](https://github.com/peteracol/Excel)
+  - **Description**: This project involves using Excel tools for manipulating data and crating visuals. It also includes a dashboard recreated in Excel after               watching a video on You Tube and following along. The recreated dashboard and the relevant files and word document are in the linked respiratory for ease of          reference.
+    
   - **Technologies Used**: Excel.
 
 
