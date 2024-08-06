@@ -30,8 +30,8 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
 
 ### PowerBI
 - **Visualisation using Power BI**: [Sales Report](https://app.powerbi.com/groups/me/reports/aa60a458-61db-47ad-a25a-02272e937307/3355ce717c475273b09d?experience=power-bi)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+  - **Description**: This project is based on a four-year sales report (2018 t0 2021) by Category for each State in the US. The report depicts the following: Total Sales (USD Million), Sales by Category, Monthly Sales, Sales by State, % Year on Year Sales, and Sales Year to Date. The report was preared using Power BI Desktop and then published Online in the Power BI Service.
+  - **Technologies Used**: Power BI (Desktop and Online).
 
 ### Tableau
 - **Project Name**: [Project Title](https://public.tableau.com/app/profile/peter.acol/viz/Data_Visualization_Assignment1/DashboardWealthofNations?publish=yes)
