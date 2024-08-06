@@ -1,31 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peter
 ===========================================================================================================================
 
-Aspiring Data Analyst | PowerBI Enthusiast |Lifelong Learner
----------------------------------------------------
+Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
+-------------------------------------------------------------
 
 
-👋 Hi there! I’m Peter, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hi there! I’m Peter, an aspiring data analyst with a passion for data analysis and turning raw data into actionable insights. I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies which I have learnt and continue to develop further skills in. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
 
 ## About Me 🎓 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [email address](mailto:peter_acol@yahoo.com)
-* 🧠  I'm a developing my skiIls in R, Python, Azure Data Analytics and PowerBI
+* 🧠  I'm enhancing my skiIls in R, Python, Azure Data Analytics and PowerBI
 * 🤝  I'm open to collaborating on Survey Design and Analysis projects
-*    I hold a postgraduate degree in Statistics and in Computing & Information Systems
-*    I am a Microsoft Certified System Administrator and a Certified CompTIA A+ Professional
-
-* 📊 Proficient in SQL, Excel and data visualization tools such as Power BI, Tableau and Looker Studio
+*    I hold postgraduate degrees in Statistics and in Computing & Information Systems
+* I am a Microsoft Certified System Administrator and a Certified CompTIA A+ Professional
+* I have over 25 years' experience in IT, Censuses and Surveys, and Fundrasing data, in public and voluntary sectors
+* 📊 Proficient in SQL, Python, RStudio, Microsoft Excel and data visualization tools such as Power BI, Tableau and Looker Studio
 * 🧩 Skilled in data cleaning, exploratory data analysis (EDA), survey design and analysis
 * 🌐 Curious about Azure Data Analytics 
 
 ## Projects
-
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
-
 
 ### R
 - **Project Name**: [Project Title](link-to-project)
