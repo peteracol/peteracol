@@ -45,7 +45,7 @@ Aspiring Data Analyst | PowerBI Enthusiast | Lifelong Learner
   - **Technologies Used**: Excel, PowerPoint, Looker Studio.
     
 ### MySQL
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Project Title](https://github.com/peteracol/SQL)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and databases used in the project.
 
